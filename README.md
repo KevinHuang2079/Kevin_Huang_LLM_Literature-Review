@@ -5,13 +5,15 @@
 This literature review explores the intersection of discrete mathematics and programming languages, focusing on how concepts from discrete mathematics, such as formal languages and combinatorics, are applied in the context of programming languages and large language models (LLMs). The review addresses the roles of tokenization, formal languages, and recursive relations in both fields.
 
 ## References
-### [Formal Languages] (https://en.wikipedia.org/wiki/Formal_language)
-### [Tokenization] (https://en.wikipedia.org/wiki/Tokenization_(data_security))
-### [Combinatorics] (https://en.wikipedia.org/wiki/Combinatorics)
-### [Recurrence Relations] (https://en.wikipedia.org/wiki/Recurrence_relation)
-### [Automata Theory] (https://en.wikipedia.org/wiki/Automata_theory)
-### [Graph Theory] (https://en.wikipedia.org/wiki/Graph_theory)
-### [Set Theory] (https://en.wikipedia.org/wiki/Set_theory
+
+### [Formal Languages](https://en.wikipedia.org/wiki/Formal_language)
+### [Tokenization](https://en.wikipedia.org/wiki/Tokenization_(data_security))
+### [Combinatorics](https://en.wikipedia.org/wiki/Combinatorics)
+### [Recurrence Relations](https://en.wikipedia.org/wiki/Recurrence_relation)
+### [Automata Theory](https://en.wikipedia.org/wiki/Automata_theory)
+### [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)
+### [Set Theory](https://en.wikipedia.org/wiki/Set_theory)
+
 
 ## Relevant Concepts
 
