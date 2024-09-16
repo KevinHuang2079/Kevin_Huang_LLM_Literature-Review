@@ -1,5 +1,5 @@
 # Literature Review: Discrete Mathematics Concepts in Programming Languages and LLMs
-*Kevin Huang
+Kevin Huang
 ## Overview
 
 This literature review explores the intersection of discrete mathematics and programming languages, focusing on how concepts from discrete mathematics, such as formal languages and combinatorics, are applied in the context of programming languages and large language models (LLMs). The review addresses the roles of tokenization, formal languages, and recursive relations in both fields.
