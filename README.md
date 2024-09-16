@@ -92,6 +92,3 @@ While LLMs use more complex models compared to traditional automata, automata th
 2. **Graph-Based Pruning and Compression**
    - **Pruning Networks**: Graph theory is applied to prune unnecessary nodes (neurons) and edges (connections) from neural networks. Pruning reduces the number of parameters, improving both inference speed and memory usage. This can be achieved by analyzing the connectivity patterns and removing redundant or less important components.
    - **Graph Partitioning**: When training large neural networks across multiple devices, graph partitioning algorithms divide the network into smaller subgraphs. These subgraphs can be processed in parallel, improving efficiency and reducing communication overhead between devices.
-
-3. **Optimization of Data Flow**
-   - **Data Flow Graphs (DFGs)**: The computation in neural networks can be represented as a data flow graph, where nodes represent operations (e.g., matrix multiplications), and edges represent data dependencies. Optim
