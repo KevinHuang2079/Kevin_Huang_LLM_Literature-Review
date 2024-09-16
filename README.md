@@ -7,12 +7,7 @@ This literature review explores the intersection of discrete mathematics and pro
 ## Relevant Concepts
 
 ### Formal Languages
-
-Formal languages consist of sets of strings defined by rules of a formal grammar. In both programming languages and LLMs, formal languages are used to define valid sequences of symbols or tokens.
-
 ### Tokenization
-
-Tokenization is the process of breaking down text or source code into smaller, meaningful units called tokens.
 
 ## Questions and Answers
 
