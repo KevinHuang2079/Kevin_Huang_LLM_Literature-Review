@@ -43,7 +43,3 @@ This literature review explores the intersection of discrete mathematics and pro
 
 ## References
 
-- [Formal Languages and Tokenization](#)
-- [Programming Languages and Tokenization](#)
-- [Discrete Mathematics in Computational Systems](#)
-
