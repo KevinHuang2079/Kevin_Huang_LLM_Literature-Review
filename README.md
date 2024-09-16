@@ -8,9 +8,9 @@ This literature review explores the intersection of discrete mathematics and pro
 
 - **Chomsky, N. (1956).** *Three Models for the Description of Language*. IRE Transactions on Information Theory, 2(3), 113-124.
 - **Sennrich, R., Haddow, B., & Birch, A. (2016).** *Neural Machine Translation of Rare Words with Subword Units*. Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (ACL 2016), 1715-1725.
-- **Aho, A. V., Lam, M. S., Sethi, R., & Ullman, J. D. (2006).** *Compilers: Principles, Techniques, and Tools (2nd ed.)*. Addison-Wesley.
+- **Aho, Alfred V. "Teaching the compilers course." ACM SIGCSE Bulletin 40.4 (2008): 6-8.
 - **Hopcroft, J. E., Motwani, R., & Ullman, J. D. (2001).** *Introduction to Automata Theory, Languages, and Computation (2nd ed.)*. Addison-Wesley.
-- **Elsayed, G., & Koenig, L. (2020).** *Neural Architecture Search with Reinforcement Learning: A Survey*. IEEE Transactions on Neural Networks and Learning Systems.
+
 
 ## Relevant Concepts
 
@@ -87,7 +87,6 @@ While LLMs use more complex models compared to traditional automata, automata th
 
 1. **Neural Architecture Search (NAS)**
    - **Search Space as a Graph**: In Neural Architecture Search (NAS), the search space of possible architectures is represented as a graph. Each node represents a specific architecture configuration, and edges represent possible transitions between configurations. Graph-based search algorithms explore this space efficiently to find optimal architectures.
-     - *Reference*: Elsayed, G., & Koenig, L. (2020). *Neural Architecture Search with Reinforcement Learning: A Survey*. IEEE Transactions on Neural Networks and Learning Systems.
    - **Optimization via Graph Traversal**: Graph traversal techniques (e.g., breadth-first search, depth-first search) and algorithms like evolutionary search or reinforcement learning are used to optimize the neural network structure by exploring different topologies and configurations.
 
 2. **Graph-Based Pruning and Compression**
